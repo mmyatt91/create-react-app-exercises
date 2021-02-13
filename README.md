@@ -1,3 +1,7 @@
+# ES2015 Module Exercises
+Springboard Software Engineering Track 39.3: React Modules & CRA
+Subunit Exercise: This exercise gives you practice with ES2015-style import/export.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
